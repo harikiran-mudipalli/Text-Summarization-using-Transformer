@@ -8,6 +8,8 @@ Users will navigate through summaries of digital news items on the User Interfac
 ![image](https://user-images.githubusercontent.com/43600130/167758219-05172902-9af2-4ed4-8e53-4754bfd5e735.png)
 
 ## Results
+We used story highlights as a reference to compare with the generated summaries. We observed Abstractive summaries showed ~83% average similarity score whereas the Extractive method was only able to achieve ~75% average similarity score.<br>
+
 ![image](https://user-images.githubusercontent.com/43600130/167758275-fdda890d-97b7-4390-b48c-347a43f6ce80.png)
 
 ![image](https://user-images.githubusercontent.com/43600130/167758289-281ae386-04bc-42cb-a4e1-badfc726b186.png)
